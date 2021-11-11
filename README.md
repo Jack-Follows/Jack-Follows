@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jack Follows</h1>
 <h3 align="center">An enthusiastic Games Developer with a passion for Games Creation</h3>
 
-<p align="left"> <a href="https://twitter.com/jackfollows" target="blank"><img src="https://img.shields.io/twitter/follow/jackfollows?logo=twitter&style=for-the-badge" alt="jackfollows" /></a> </p>
 
 - 🔭 I’m currently working on **Private Projects**
 
